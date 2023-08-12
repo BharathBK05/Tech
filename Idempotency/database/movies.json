@@ -1,0 +1,5 @@
+[{"id": "1", "Theatre": "ABC", "Movie":"A", "Days" : 20},
+{"id": "2", "Theatre": "EFG", "Movie":"B", "Days" : 10},
+{"id": "3", "Theatre": "IJK", "Movie":"C", "Days" : 30},
+{"id": "4", "Theatre": "LMN", "Movie":"D", "Days" : 10},
+{"id": "5", "Theatre": "OPQ", "Movie":"E", "Days" : 50}]
